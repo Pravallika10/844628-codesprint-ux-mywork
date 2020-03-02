@@ -1,0 +1,19 @@
+My associate id:
+
+844628
+
+Other team members:
+
+844565 , 844566 , 844576 , 844582,844567
+
+Team lead:
+
+844565
+
+My Role in team:
+
+1. To develop place appointment page 
+
+My development files:
+
+1. placeappointment
